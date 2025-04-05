@@ -23,3 +23,7 @@ Deployment: The project employs Flask, enhanced with flask-ngrok for Google Cola
 Deliverable: The final deliverable is a deployed Flask API showcasing the model’s functionality. Users can send feature data (e.g., crime rate, rooms) to the /predict endpoint and receive a predicted house price, fulfilling CODTECH’s requirement for a deployed web app. While the code lacks explicit visualizations (e.g., accuracy plots), the API’s predictive output serves as the primary demonstration of functionality.
 
 Tools and Techniques: The project utilizes Python libraries (Pandas, NumPy, scikit-learn) for data handling and modeling, and Flask for deployment. It demonstrates skills in data preprocessing, machine learning
+
+#Output
+
+![Image](https://github.com/user-attachments/assets/a250f55f-c879-4804-b214-c76d110c116b)
